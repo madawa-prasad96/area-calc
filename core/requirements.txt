@@ -1,0 +1,6 @@
+Flask==3.0.0
+Pillow==10.0.0
+python-dotenv==1.0.0
+opencv-python-headless==4.9.0.80  # For image processing
+pytesseract==0.3.10             # For OCR
+pytest==7.4.3
